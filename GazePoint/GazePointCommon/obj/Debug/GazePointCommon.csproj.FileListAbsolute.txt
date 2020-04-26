@@ -1,0 +1,11 @@
+C:\Users\Stefan\source\repos\GazePoint\GazePointCommon\bin\Debug\GazePointCommon.dll
+C:\Users\Stefan\source\repos\GazePoint\GazePointCommon\bin\Debug\GazePointCommon.pdb
+C:\Users\Stefan\source\repos\GazePoint\GazePointCommon\obj\Debug\GazePointCommon.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\GazePoint\GazePointCommon\obj\Debug\GazePointCommon.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\GazePoint\GazePointCommon\obj\Debug\GazePointCommon.dll
+C:\Users\Stefan\source\repos\GazePoint\GazePointCommon\obj\Debug\GazePointCommon.pdb
+C:\Users\Stefan\OneDrive\FTN\Master\SOTIS\GazePoint\GazePointCommon\bin\Debug\GazePointCommon.dll
+C:\Users\Stefan\OneDrive\FTN\Master\SOTIS\GazePoint\GazePointCommon\bin\Debug\GazePointCommon.pdb
+C:\Users\Stefan\OneDrive\FTN\Master\SOTIS\GazePoint\GazePointCommon\obj\Debug\GazePointCommon.csprojAssemblyReference.cache
+C:\Users\Stefan\OneDrive\FTN\Master\SOTIS\GazePoint\GazePointCommon\obj\Debug\GazePointCommon.dll
+C:\Users\Stefan\OneDrive\FTN\Master\SOTIS\GazePoint\GazePointCommon\obj\Debug\GazePointCommon.pdb
